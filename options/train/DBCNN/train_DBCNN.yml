@@ -47,6 +47,7 @@ path:
   pretrain_network_g: ~
   strict_load_g: true
   resume_state: ~
+  auto_resume: true  # new added param to have the checkpoint auto_resume
 
 # training settings
 train:
